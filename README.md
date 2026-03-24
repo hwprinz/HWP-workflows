@@ -33,4 +33,4 @@ Download the file and place it in your `ComfyUI/custom_nodes/` folder, then rest
 
 *More workflows will be added over time.*
 
-### *Built by [Hans](https://github.com/hwprinz) & with 💜 by [Apolonia](https://github.com/ApoloniArt) to reclaim your time from the mundane.*
+### Built with 🤘 by [Hans](https://github.com/hwprinz) & with 💜 by [Apolonia](https://github.com/ApoloniArt) to reclaim your time from the mundane.
